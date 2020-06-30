@@ -1,4 +1,15 @@
 *.iml
 target/
 .idea/
-Config.java
+
+# MacOS
+.DS_Store
+
+# IntelliJ
+.idea/*
+
+
+# Compiled output
+*.class
+out/*
+
